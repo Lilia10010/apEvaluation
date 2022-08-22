@@ -1,0 +1,96 @@
+import { Meta, Story, Canvas, ArgsTable } from "@storybook/addon-docs";
+import { Heading } from "../../src/components/tipografia";
+
+<Meta title="Components/Tipografia" component={Heading} />
+
+export const Template = (args) => <Heading {...args} />;
+
+# Tipografia
+
+esta é a nossa tipografia: Roboto
+
+<ArgsTable of={Heading} />
+
+<Canvas>
+  <Story
+    name="Display"
+    args={{
+      name: "Lorem ipsum",
+      typeHeading: "display",
+    }}
+  >
+    {(args) => <Heading {...args} />}
+  </Story>
+</Canvas>
+
+<Canvas>
+  <Story
+    name="Heading L"
+    args={{
+      name: "Lorem ipsum",
+      typeHeading: "heading-l",
+    }}
+  >
+    {(args) => <Heading {...args} />}
+  </Story>
+</Canvas>
+
+<Canvas>
+  <Story
+    name="Heading M"
+    args={{
+      name: "Lorem ipsum",
+      typeHeading: "heading-m",
+    }}
+  >
+    {(args) => <Heading {...args} />}
+  </Story>
+</Canvas>
+
+<Canvas>
+  <Story
+    name="Heading S"
+    args={{
+      name: "Lorem ipsum",
+      typeHeading: "heading-s",
+    }}
+  >
+    {(args) => <Heading {...args} />}
+  </Story>
+</Canvas>
+
+<Canvas>
+  <Story
+    name="Heading XS"
+    args={{
+      name: "Lorem ipsum",
+      typeHeading: "heading-xs",
+    }}
+  >
+    {(args) => <Heading {...args} />}
+  </Story>
+</Canvas>
+
+<Canvas>
+  <Story
+    name="SubHeading"
+    args={{
+      name: "Lorem ipsum",
+      typeHeading: "subheading",
+    }}
+  >
+    {(args) => <Heading {...args} />}
+  </Story>
+</Canvas>
+
+<Canvas>
+  <Story
+    name="Body M"
+    args={{
+      name: "Lorem ipsum",
+      typeHeading: "body-m",
+    }}
+  >
+    {(args) => <Heading {...args} />}
+  </Story>
+</Canvas>
