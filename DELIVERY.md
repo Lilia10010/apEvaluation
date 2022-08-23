@@ -10,16 +10,18 @@ Coloque aqui projetos e ou artigos que já desenvolveu, trabalhou ou escreveu.
 - TypeScript
 - Style components
 
-repo: https://github.com/Lilia10010/UI_Clone_Twitter
-deploy: https://ui-clone-twitter.vercel.app/
+- repo: https://github.com/Lilia10010/UI_Clone_Twitter
+- deploy: https://ui-clone-twitter.vercel.app/
+
 
 #### Portifólio pessoal:
 
 - ReactJS
 - Style components
 
-repo: https://github.com/Lilia10010/lilia-paula
-deploy: https://lilia-paula.vercel.app/
+- repo: https://github.com/Lilia10010/lilia-paula
+- deploy: https://lilia-paula.vercel.app/
+
 
 #### Pomodoro:
 
@@ -27,21 +29,25 @@ deploy: https://lilia-paula.vercel.app/
 - NextJS
 - TypeScript
 
-repo: https://github.com/Lilia10010/app_pomodoro_gamer
-deploy: https://app-pomodoro-gamer.vercel.app/
+- repo: https://github.com/Lilia10010/app_pomodoro_gamer
+- deploy: https://app-pomodoro-gamer.vercel.app/
+
 
 #### Dasboar (em desenvolvimento)
 
 - NextJS
 - TypeScript
 - Chakra UI
-  repo: https://github.com/Lilia10010/appDashboarapp
-  deploy: https://app-dashboarapp-1g6atu9ir-lilia10010.vercel.app/dashboard
+
+- repo: https://github.com/Lilia10010/appDashboarapp
+- deploy: https://app-dashboarapp-1g6atu9ir-lilia10010.vercel.app/dashboard
+
 
 ### Projeto bem simples em vanilla:
 
-repo: https://github.com/Lilia10010/page_deboista
-deploy: https://page-deboista-lilia10010.vercel.app/
+- repo: https://github.com/Lilia10010/page_deboista
+- deploy: https://page-deboista-lilia10010.vercel.app/
+
 
 ### Nos deixe um feedback
 
