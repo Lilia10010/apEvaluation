@@ -1,8 +1,9 @@
-import { useState, FormEvent, useCallback, useEffect } from "react";
+import { useState, FormEvent, useEffect } from "react";
 import { setEvaluation } from "../../services/sessions";
 import { Button } from "../button";
 import { Modal } from "../modal";
 import { Heading } from "../tipografia";
+
 import {
   Container,
   WrapperForm,
@@ -56,9 +57,6 @@ export const FormEvaluation = () => {
           );
           setFormData({ name: "", comments: "" });
         }, 2000);
-        /* setTimeout(() => {
-          setIsOpenModal(false);
-        }, 5000); */
       });
   };
 
@@ -74,7 +72,7 @@ export const FormEvaluation = () => {
     <Container>
       <WrapperForm>
         <Logo>
-          <img src="img/serasa-logo-full.svg" alt="logo serasa" />
+          <img src="img/serasa-logo-full.png" alt="logo serasa" />
         </Logo>
         <Title>
           <Heading

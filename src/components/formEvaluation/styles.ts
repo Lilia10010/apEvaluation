@@ -20,6 +20,7 @@ export const WrapperForm = styled.div`
   box-shadow: 0 25px 45px rgba(0, 0, 0, 0.2);
 `;
 export const Logo = styled.div`
+  width: 200px;
   img {
     max-width: 200px;
   }
