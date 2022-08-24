@@ -10,8 +10,6 @@ const Home: NextPage = () => {
         <link rel="shortcut icon" href="/img/icon.svg" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta name="theme-color" content="#4285f4" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-
         <meta name="title" content="Serasa" />
         <meta
           name="description"
